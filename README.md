@@ -87,3 +87,22 @@ https://airlife.ru/articles/issledovaniya-po-unichtozheniyu-mikroorganizmov-ozon
 https://u.easyeda.com/
 
 Рисуем электрические схемы как на картинке
+
+![circut_shema](https://github.com/garick161/Ozon-Automatic/assets/114688542/325e4d6a-2ec6-49b9-a277-c4de48edd47c)
+
+И на основании ее формируются макеты готовых печатных плат
+
+![plata_maket](https://github.com/garick161/Ozon-Automatic/assets/114688542/49b5b8e7-5a74-470f-9472-33ee0ae13e51)
+
+Для изготовления плат пользовался услугами компании JLCPCB\
+https://jlcpcb.com/
+
+И вот какая красота получается
+
+![new_plate](https://github.com/garick161/Ozon-Automatic/assets/114688542/a4c66ab5-57df-4202-93f8-7b1c0a0e2472)
+
+
+![plate_with_comp](https://github.com/garick161/Ozon-Automatic/assets/114688542/cce715f6-ce92-4f0b-b675-e54b52a4b921)
+
+
+Себестоимость таких плат около 1$ за 1шт. плюс доставка из Китая. Я считаю очень классно за такое качество.
