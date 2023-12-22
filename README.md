@@ -37,9 +37,9 @@ Cуществуют множество статей и исследований 
 
 # Концепция применения в каршеринге
 
-Яндекс драйв: ссылка
+Яндекс драйв: https://drive.google.com/file/d/1kbA432G1mN0O4X6jvoJn5v_-QGB-2kvm/view?usp=sharing
 
-Делимобиль: ссылка
+Делимобиль: https://drive.google.com/file/d/1ejDzGO5B7t-INzk9d_xV34OWrI3pFTsM/view?usp=sharing
 
 # Первое устройство
 
@@ -108,6 +108,6 @@ https://jlcpcb.com/
 
 # Представление изделия для частного пользования
 
-ссылка
+https://drive.google.com/file/d/1_0sg_AHU5hJeiSv96l7KfNd0j3xykGVh/view?usp=sharing
 
 ![last_frame](https://github.com/garick161/Ozon-Automatic/assets/114688542/6aa9bb41-5c59-444e-8ffd-ee20ab7b40bf)
