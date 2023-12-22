@@ -101,17 +101,13 @@ https://jlcpcb.com/
 
 ![new_plate](https://github.com/garick161/Ozon-Automatic/assets/114688542/a4c66ab5-57df-4202-93f8-7b1c0a0e2472)
 
-# Представление изделия для частного пользования
-
-ссылка
-
-![last_frame](https://github.com/garick161/Ozon-Automatic/assets/114688542/6aa9bb41-5c59-444e-8ffd-ee20ab7b40bf)
-
-
-
 ![plate_with_comp](https://github.com/garick161/Ozon-Automatic/assets/114688542/cce715f6-ce92-4f0b-b675-e54b52a4b921)
 
 
 Себестоимость таких плат около 1$ за 1шт. плюс доставка из Китая. Я считаю очень классно за такое качество.
 
 # Представление изделия для частного пользования
+
+ссылка
+
+![last_frame](https://github.com/garick161/Ozon-Automatic/assets/114688542/6aa9bb41-5c59-444e-8ffd-ee20ab7b40bf)
