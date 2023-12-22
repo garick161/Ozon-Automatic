@@ -1,4 +1,3 @@
-#5C3EE8
 ![logo](https://github.com/garick161/Ozon-Automatic/assets/114688542/e969e901-c106-41c6-9698-f07972b28ec7)
 
 # Предпосылки
