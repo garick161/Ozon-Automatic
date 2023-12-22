@@ -1,4 +1,4 @@
-![opencv](https://github.com/garick161/Ozon-Automatic/assets/114688542/f4672f1a-da68-4853-a97a-e7f435f94062)
+#5C3EE8
 ![logo](https://github.com/garick161/Ozon-Automatic/assets/114688542/e969e901-c106-41c6-9698-f07972b28ec7)
 
 # Предпосылки
